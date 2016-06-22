@@ -1,4 +1,4 @@
-require_relative '../lib/Board'
+require_relative '../lib/Number_gen'
 require_relative '../lib/Player'
 require_relative '../lib/Game'
 
